@@ -5,7 +5,7 @@
 
 Pharmacologist (PharmD, MSc, MPH) and PhD candidate at Nagoya University Graduate School of Medicine. I work on drug safety and pharmacoepidemiology, and I build free, open tools for the way research is written, checked and credited.
 
-**Research interests:** pharmacovigilance and pharmacoepidemiology (disproportionality analyses of VigiBase), research integrity and reproducible manuscripts, open research information, and medical education.
+**Research interests:** pharmacovigilance and pharmacoepidemiology, research integrity and reproducible manuscripts, open research information, and medical education.
 
 **Currently:** a PhD at Nagoya University on machine-learning-driven adaptive problem-based learning in psychopharmacology, a Franco-Japanese collaboration funded by Nagoya University (2025–2029); and building reference-currency checks into manuscript-guard.
 
