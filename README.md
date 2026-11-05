@@ -7,7 +7,7 @@ Pharmacologist (PharmD, MSc, MPH) and PhD candidate at Nagoya University Graduat
 
 **Research interests:** pharmacovigilance and pharmacoepidemiology, research integrity and reproducible manuscripts, open research information, and medical education.
 
-**Currently:** a PhD at Nagoya University on machine-learning-driven adaptive problem-based learning in psychopharmacology, a Franco-Japanese collaboration funded by Nagoya University (2025–2029); and building reference-currency checks into manuscript-guard.
+**Currently:** a PhD at Nagoya University on machine-learning-driven adaptive problem-based learning in psychopharmacology, a Franco-Japanese collaboration funded by Nagoya University (2025–2029).
 
 **Languages:** French, English, Japanese.
 
