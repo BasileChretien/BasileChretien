@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 170" width="600" height="170" role="img" aria-labelledby="t d">
+<title id="t">manuscript-guard</title>
+<desc id="d">Every number in a scientific paper traced to its source. Python · MIT · alpha</desc>
+<g font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif">
+<rect x="0.75" y="0.75" width="598.5" height="168.5" rx="12" fill="#0d1117" stroke="#3d444d" stroke-width="1.5"/>
+<g transform="translate(28 24)" fill="none" stroke="#4493f8" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M8 3h11l6 6v20H8z"/><path d="M19 3v6h6"/><path d="M11.5 13h7M11.5 17.5h4"/><path d="M12.5 23l2.5 2.5 5-5.5"/></g>
+<text x="74" y="51" font-size="26" font-weight="600" fill="#f0f6fc">manuscript-guard</text>
+<text x="28" y="97" font-size="21" fill="#f0f6fc">Every number in a scientific paper</text>
+<text x="28" y="125" font-size="21" fill="#f0f6fc">traced to its source.</text>
+<text x="28" y="155" font-size="16" fill="#9198a1">Python · MIT · alpha</text>
+</g>
+</svg>

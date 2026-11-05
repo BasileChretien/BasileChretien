@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-labelledby="t d">
+<title id="t">Basile Chrétien</title>
+<desc id="d">Pharmacologist, PhD candidate at Nagoya University, open tools for research integrity. A Results sentence whose number, 4,000, is first flagged as unbound, then traced by a line to results.cohort.n_reports and marked as checked.</desc>
+<style>
+.sans { font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; } .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, &quot;Liberation Mono&quot;, monospace; }
+@keyframes num { 0% { fill: #f0f6fc } 6.32% { fill: #f0f6fc } 9.47% { fill: #f85149 } 45.26% { fill: #f85149 } 48.42% { fill: #3fb950 } 94.74% { fill: #3fb950 } 98.95% { fill: #f0f6fc } 100% { fill: #f0f6fc } }
+@keyframes under { 0% { stroke-dashoffset: 1; stroke: #f85149; opacity: 1 } 6.32% { stroke-dashoffset: 1; stroke: #f85149 } 10.53% { stroke-dashoffset: 0; stroke: #f85149 } 45.26% { stroke: #f85149 } 48.42% { stroke: #3fb950 } 94.74% { stroke-dashoffset: 0; stroke: #3fb950; opacity: 1 } 98.95% { stroke-dashoffset: 0; stroke: #3fb950; opacity: 0 } 100% { stroke-dashoffset: 1; stroke: #f85149; opacity: 0 } }
+@keyframes tag { 0% { opacity: 0 } 7.37% { opacity: 0 } 10.53% { opacity: 1 } 23.16% { opacity: 1 } 26.32% { opacity: 0 } 100% { opacity: 0 } }
+@keyframes link { 0% { stroke-dashoffset: 1; opacity: 1 } 24.21% { stroke-dashoffset: 1 } 42.11% { stroke-dashoffset: 0 } 94.74% { opacity: 1 } 98.95% { stroke-dashoffset: 0; opacity: 0 } 100% { stroke-dashoffset: 1; opacity: 0 } }
+@keyframes chip { 0% { stroke: #3d444d; fill: #0d1117 } 40% { stroke: #3d444d; fill: #0d1117 } 43.16% { stroke: #4493f8; fill: #121d2f } 94.74% { stroke: #4493f8; fill: #121d2f } 98.95% { stroke: #3d444d; fill: #0d1117 } 100% { stroke: #3d444d; fill: #0d1117 } }
+@keyframes chiptext { 0% { fill: #9198a1 } 40% { fill: #9198a1 } 43.16% { fill: #4493f8 } 94.74% { fill: #4493f8 } 98.95% { fill: #9198a1 } 100% { fill: #9198a1 } }
+@keyframes tick { 0% { stroke-dashoffset: 1; opacity: 1 } 46.32% { stroke-dashoffset: 1 } 50.53% { stroke-dashoffset: 0 } 94.74% { opacity: 1 } 98.95% { stroke-dashoffset: 0; opacity: 0 } 100% { stroke-dashoffset: 1; opacity: 0 } }
+.num { fill: #3fb950; animation: num 9.5s linear infinite both; }
+.under { stroke: #3fb950; animation: under 9.5s ease-out infinite both; }
+.tag { opacity: 0; animation: tag 9.5s linear infinite both; }
+.link { animation: link 9.5s ease-in-out infinite both; }
+.chip { stroke: #4493f8; fill: #121d2f; animation: chip 9.5s linear infinite both; }
+.chiptext { fill: #4493f8; animation: chiptext 9.5s linear infinite both; }
+.tick { animation: tick 9.5s ease-out infinite both; }
+@media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation: none !important; } }
+</style>
+<rect width="1200" height="260" fill="#0d1117"/>
+<text class="sans" x="6" y="66" font-size="40" font-weight="600" fill="#f0f6fc">Basile Chrétien</text>
+<text class="sans" x="6" y="104" font-size="20" fill="#9198a1">Pharmacologist · PhD candidate, Nagoya University · open tools for research integrity</text>
+<text class="mono" x="6" y="150" font-size="14" fill="#9198a1">manuscript/main.md</text>
+<text class="mono" x="34" y="188" font-size="22" text-anchor="end" fill="#f0f6fc">Of</text>
+<text class="mono num" x="78" y="188" font-size="22" text-anchor="middle" font-weight="600">4,000</text>
+<text class="mono" x="124" y="188" font-size="22" fill="#f0f6fc">reports, 312 described hepatic injury.</text>
+<line class="under" x1="44" y1="197" x2="112" y2="197" stroke-width="2" stroke-linecap="round" pathLength="1" stroke-dasharray="1 1"/>
+<text class="mono tag" x="78" y="221" font-size="13.5" text-anchor="middle" fill="#f85149">unbound</text>
+<path class="tick" d="M 70 211 l 5 5 l 10 -11" fill="none" stroke="#3fb950" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" pathLength="1" stroke-dasharray="1 1"/>
+<path class="link" d="M 117 197 C 135 197 135 236 155 236 H 806 C 830 236 830 188 844 188" fill="none" stroke="#4493f8" stroke-width="1.5" pathLength="1" stroke-dasharray="1 1"/>
+<text class="mono" x="846" y="150" font-size="14" fill="#9198a1">results/01_disproportionality.json</text>
+<rect class="chip" x="846" y="166" width="310" height="44" rx="8" stroke-width="1.5"/>
+<text class="mono chiptext" x="866" y="193.5" font-size="16">results.cohort.n_reports</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 170" width="600" height="170" role="img" aria-labelledby="t d">
+<title id="t">Open Editors Plus</title>
+<desc id="d">Who sits on academic editorial boards: 922,097 positions, 15,168 journals. openeditors-plus.org · CC0</desc>
+<g font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif">
+<rect x="0.75" y="0.75" width="598.5" height="168.5" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+<g transform="translate(28 24)" fill="none" stroke="#0969da" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><circle cx="16" cy="16" r="3"/><circle cx="16" cy="4.5" r="2.2"/><circle cx="5.5" cy="12" r="2.2"/><circle cx="26.5" cy="12" r="2.2"/><circle cx="9" cy="26.5" r="2.2"/><circle cx="23" cy="26.5" r="2.2"/><path d="M16 13V6.7M13.2 15.1 7.6 12.8M18.8 15.1l5.6-2.3M14.2 18.4l-3.9 6.3M17.8 18.4l3.9 6.3"/></g>
+<text x="74" y="51" font-size="26" font-weight="600" fill="#1f2328">Open Editors Plus</text>
+<text x="28" y="97" font-size="21" fill="#1f2328">Who sits on academic editorial boards:</text>
+<text x="28" y="125" font-size="21" fill="#1f2328">922,097 positions, 15,168 journals.</text>
+<text x="28" y="155" font-size="16" fill="#59636e">openeditors-plus.org · CC0</text>
+</g>
+</svg>

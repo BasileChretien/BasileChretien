@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 170" width="600" height="170" role="img" aria-labelledby="t d">
+<title id="t">CaNaMED</title>
+<desc id="d">Cross-cultural medical-communication workshops, Caen × Nagoya. PBL platform · alpha</desc>
+<g font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif">
+<rect x="0.75" y="0.75" width="598.5" height="168.5" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+<g transform="translate(28 24)" fill="none" stroke="#0969da" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5h15a2 2 0 0 1 2 2v7a2 2 0 0 1-2 2h-8l-4 3.5V16H4a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2z"/><path d="M24 11h4a2 2 0 0 1 2 2v7a2 2 0 0 1-2 2h-1v3.5L23 22h-8a2 2 0 0 1-2-2v-1"/></g>
+<text x="74" y="51" font-size="26" font-weight="600" fill="#1f2328">CaNaMED</text>
+<text x="28" y="97" font-size="21" fill="#1f2328">Cross-cultural medical-communication</text>
+<text x="28" y="125" font-size="21" fill="#1f2328">workshops, Caen × Nagoya.</text>
+<text x="28" y="155" font-size="16" fill="#59636e">PBL platform · alpha</text>
+</g>
+</svg>
